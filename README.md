@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Dr. Wu from UMD</h1>
 <h3 align="center">A NASA engineer experimenting on AI powered Electro-optics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wuumd2018&label=Profile%20views&color=0e75b6&style=flat" alt="wuumd2018" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wuumd2018&label=Profile%20views&color=0e75b6&style=flat" alt="WuUMD2018" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
