@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dr. Wu from UMD</h1>
+<h1 align="center">Hi there 👋, I'm Dr. Wu </h1>
 <h3 align="center">A NASA engineer experimenting on AI powered Electro-optics</h3>
 
 
