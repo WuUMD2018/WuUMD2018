@@ -8,4 +8,4 @@ I'm interested in combining hardware and AI for practical inspection, monitoring
 
 **Tools:** Python · MATLAB · C · PyTorch · OpenCV
 
-[Publications](https://scholar.google.com/citations?user=yLy98iIAAAAJ&hl=en) · [Research](https://sites.google.com/view/chenshengwu)
+[Publications](https://scholar.google.com/citations?user=yLy98iIAAAAJ&hl=en)
